@@ -1,3 +1,5 @@
+![Cover](CodeAsAgentHarnessTH_assets/CodeAsAgentHHarnessTHCover.png)
+
 ![Cover](CodeAsAgentHarnessTH_assets/Cover.png)
 
 # Code as Agent Harness: ฉบับแปลภาษาไทย

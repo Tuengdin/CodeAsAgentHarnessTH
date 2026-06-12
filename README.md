@@ -1,6 +1,12 @@
+# Code as Agent Harness: ฉบับแปลภาษาไทย
+
+อ่านฉบับเต็ม ภาษาไทย ได้ที่ https://github.com/Tuengdin/CodeAsAgentHarnessTH/blob/main/CodeAsAgentHarnessTH.md
+
+![Cover](CodeAsAgentHarnessTH_assets/CodeAsAgentHHarnessTHCover.png)
+
 ![Cover](CodeAsAgentHarnessTH_assets/Cover.png)
 
-# Code as Agent Harness: ฉบับแปลภาษาไทย
+
 > แปลจากหน้า PDF 1–66 โดยคง technical terms, ชื่อเฉพาะ, acronym,
 > citation, URL และ code identifier ไว้เป็นภาษาอังกฤษ
 > การอ้างอิงให้ดูจากต้นฉบับภาษาอังกฤษ
